@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "/OvzG5GWjsx1qwbYUZfphqCwqHY6Mksq7jWCFQuPAT/xdO2XssWQCQL3nbwr6EptMWMsGYMQtS3Vmb1+zouiHA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\320105541\\source\\repos\\Alert-To-Care_practice\\Alert-To-Care-Test\\Alert-To-Care-Test.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\320105541\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\320105541\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512",
+    "C:\\Users\\320105541\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\320105541\\.nuget\\packages\\restsharp\\106.11.7\\restsharp.106.11.7.nupkg.sha512"
+  ],
+  "logs": []
+}

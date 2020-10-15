@@ -1,0 +1,9 @@
+C:\Users\320105541\source\repos\Alert-To-Care_practice\Alert-To-Care-Test\bin\Debug\netstandard2.0\Alert-To-Care-Test.deps.json
+C:\Users\320105541\source\repos\Alert-To-Care_practice\Alert-To-Care-Test\bin\Debug\netstandard2.0\Alert-To-Care-Test.dll
+C:\Users\320105541\source\repos\Alert-To-Care_practice\Alert-To-Care-Test\obj\Debug\netstandard2.0\Alert-To-Care-Test.csprojAssemblyReference.cache
+C:\Users\320105541\source\repos\Alert-To-Care_practice\Alert-To-Care-Test\obj\Debug\netstandard2.0\Alert-To-Care-Test.AssemblyInfoInputs.cache
+C:\Users\320105541\source\repos\Alert-To-Care_practice\Alert-To-Care-Test\obj\Debug\netstandard2.0\Alert-To-Care-Test.AssemblyInfo.cs
+C:\Users\320105541\source\repos\Alert-To-Care_practice\Alert-To-Care-Test\bin\Debug\netstandard2.0\Alert-To-Care-Test.pdb
+C:\Users\320105541\source\repos\Alert-To-Care_practice\Alert-To-Care-Test\obj\Debug\netstandard2.0\Alert-To-Care-Test.csproj.CoreCompileInputs.cache
+C:\Users\320105541\source\repos\Alert-To-Care_practice\Alert-To-Care-Test\obj\Debug\netstandard2.0\Alert-To-Care-Test.dll
+C:\Users\320105541\source\repos\Alert-To-Care_practice\Alert-To-Care-Test\obj\Debug\netstandard2.0\Alert-To-Care-Test.pdb
